@@ -52,4 +52,8 @@ public class Employee {
                 ", employeeDescription='" + employeeDescription + '\'' +
                 '}';
     }
+
+
+    public void setId(long l) {
+    }
 }
